@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_demo_var1", "test_demo_var1\test_demo_var1.csproj", "{26F36AA0-1576-4ACB-9297-55EABFFDF284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_demo", "test_demo_var1\test_demo.csproj", "{26F36AA0-1576-4ACB-9297-55EABFFDF284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLib", "test_demo_var1_lib\WSUniversalLib.csproj", "{99FD5CF9-2651-47EE-89C3-9DD6C5EBA761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUniversalLib", "test_demo_var1_lib\WSUniversalLib.csproj", "{99FD5CF9-2651-47EE-89C3-9DD6C5EBA761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_demo_var1_unit", "test_demo_var1_unit\test_demo_var1_unit.csproj", "{DD31B4F8-A7FC-43DC-A643-7912431B6AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_demo_unit", "test_demo_var1_unit\test_demo_unit.csproj", "{DD31B4F8-A7FC-43DC-A643-7912431B6AE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
